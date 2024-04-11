@@ -1,4 +1,4 @@
-### Hi 👋, I'm Brian <img align="center" alt="Programming" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/4681897/media/e612f71d1ebbfb407dd5d045c219407e.gif">
+### Hi 👋, I'm Brian <img align="right" alt="Programming" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/4681897/media/e612f71d1ebbfb407dd5d045c219407e.gif">
 
 <!--
 **bkbrock59/bkbrock59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

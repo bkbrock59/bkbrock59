@@ -1,6 +1,12 @@
+
 ## Hi 👋, I'm Brian 
-![Developer](bg.jpg)
-<a title="IBM, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:IBM_i_circle_logo.png"><img width="64" align="center" alt="IBM i circle logo" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/IBM_i_circle_logo.png"></a> 
+<div style="background-color:#F7F4F3">
+
+
+
+<a title="IBM, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:IBM_i_circle_logo.png"><img width="64" align="center" alt="IBM i circle logo" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/IBM_i_circle_logo.png"></a> <a title="Facebook, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:React-icon.svg"> <img width="40" align="center" alt="React-icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png"></a><a title="Ryan Dahl, MIT &lt;http://opensource.org/licenses/mit-license.php&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Node.js_logo.svg"> <img width="80" align="center" alt="Node.js logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/512px-Node.js_logo.svg.png"></a> <img width="80" align="center" alt="IBM RPG logo" src="IBM_RPG_logo.png"></a>
+<img width="100%" alt="IBM DB2 logo" src="bg.jpg"></a>
+</div>
 
 
 <!--

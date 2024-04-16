@@ -1,5 +1,6 @@
-<a title="IBM, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:IBM_i_circle_logo.png"><img width="64" align="center" alt="IBM i circle logo" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/IBM_i_circle_logo.png"></a> ## Hi 👋, I'm Brian 
+## Hi 👋, I'm Brian 
 ![Developer](bg.jpg)
+<a title="IBM, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:IBM_i_circle_logo.png"><img width="64" align="center" alt="IBM i circle logo" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/IBM_i_circle_logo.png"></a> 
 
 
 <!--

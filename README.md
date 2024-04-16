@@ -1,6 +1,6 @@
 
 ## Hi 👋, I'm Brian 
-![Developer](dev_bg.png)
+<img src="dev_bg.png" width="90%">
 
 <!--
 **bkbrock59/bkbrock59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

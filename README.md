@@ -1,6 +1,3 @@
-
-## Hi 👋, I'm Brian 
-
 <img src="dev_bg.png" width="100%">
 
 <!--
